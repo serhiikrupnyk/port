@@ -13,10 +13,9 @@
     "vite": "^4.1.0"
   },
   "dependencies": {
-    "@pixi/layers": "^2.0.1",
-    "@pixi/lights": "^4.0.0",
-    "@pixi/sound": "^5.1.0",
-    "pixi.js": "^7.1.4",
-    "tweedle.js": "^2.0.1"
+    "@pixi/filter-color-overlay": "^5.1.1",
+    "@tweenjs/tween.js": "^21.0.0",
+    "@types/tween.js": "^18.6.1",
+    "pixi.js": "^7.1.4"
   }
 }
